@@ -2,9 +2,6 @@
  雷神加速器 自动暂停API
 
  [![雷神自动停止加速](https://github.com/lilynas/LeishenAuto/actions/workflows/pause.yaml/badge.svg)](https://github.com/lilynas/LeishenAuto/actions/workflows/pause.yaml)
-## 🌀简介
-
-为了防止自己忘记关闭加速器,浪费宝贵的时间(Money),于是了这个项目，实现每天0点自动暂停加速。
 
 ## 📐部署
 

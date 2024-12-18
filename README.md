@@ -3,12 +3,6 @@
 
  [![雷神自动停止加速](https://github.com/lilynas/LeishenAuto/actions/workflows/pause.yaml/badge.svg)](https://github.com/lilynas/LeishenAuto/actions/workflows/pause.yaml)
 
-## 📐部署
-
-1. Fork 仓库
-3. 设置雷神账号密码
-3. 启用 Action
-
 
 ### 1. Fork 仓库
 

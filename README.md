@@ -1,8 +1,6 @@
 # 雷神加速器自动暂停
- 雷神加速器 自动暂停API
 
  [![雷神自动停止加速](https://github.com/lilynas/LeishenAuto/actions/workflows/pause.yaml/badge.svg)](https://github.com/lilynas/LeishenAuto/actions/workflows/pause.yaml)
-
 
 ### 1. Fork 仓库
 
